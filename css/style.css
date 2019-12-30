@@ -115,6 +115,10 @@ html {
 .news {
   display: flex;
   flex-wrap: wrap;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  padding-top: 120px;
 }
 .news .title {
   font-family: 'Open Sans';
@@ -142,5 +146,10 @@ html {
 .button {
   font-family: 'Open Sans';
   font-weight: 300;
+  cursor: pointer;
+  width: 159px;
+  height: 51px;
+  background-color: #4ec6ab;
+  color: #ffffff;
   cursor: pointer;
 }
