@@ -38,7 +38,7 @@ html {
 
 .site-nav {
   display: flex;
-  margin-left: 567px;
+  margin-left: 600px;
   margin-right: 274px;
 }
 .page-nav {
@@ -48,8 +48,8 @@ html {
 
 .site-nav .link {
   display: block;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
   padding-top: 42px;
   padding-bottom: 83px;
   text-decoration: none;
