@@ -21,11 +21,9 @@ html {
 }
 
 .container {
-  width: 1400px;
+  width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 .header {
@@ -38,8 +36,7 @@ html {
 
 .site-nav {
   display: flex;
-  margin-left: 600px;
-  margin-right: 274px;
+  margin-left: auto;
 }
 .page-nav {
   display: flex;
@@ -48,8 +45,8 @@ html {
 
 .site-nav .link {
   display: block;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-top: 42px;
   padding-bottom: 83px;
   text-decoration: none;
