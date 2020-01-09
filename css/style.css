@@ -47,18 +47,9 @@ html {
   line-height: 1;
   text-decoration: none;
 }
-.site-logo::before {
-  display: inline-block;
-  content: 'M';
-
-  font-size: 30px;
-  letter-spacing: -1px;
-  line-height: 32px;
-  color: #1abc9c;
+.site-logo::first-letter {
   font-family: 'Roboto';
-  font-weight: 900;
-  background-image: M;
-  background-repeat: no-repeat;
+  color: #1abc9c;
 }
 .site-nav {
   display: flex;
