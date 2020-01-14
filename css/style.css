@@ -90,6 +90,7 @@ html {
   padding: 0;
 }
 .title {
+  margin: 0;
   margin-bottom: 130px;
   color: #515151;
   font-size: 48px;
